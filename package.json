@@ -1,0 +1,21 @@
+{
+  "name": "xlsx2js",
+  "version": "1.3.6",
+  "description": "xlsx to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xlsx xlsx2json xlsx2js"
+  ],
+  "author": "yuhao.zhu",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.14.3"
+  },
+  "files": [
+    "index.js"
+  ],
+  "types": "types"
+}
